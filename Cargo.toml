@@ -47,7 +47,7 @@ fuzzyhash = "0.2"
 tempfile = "3.1"
 httpmock = "0.5.2"
 assert_cmd = "1.0.1"
-predicates = "1.0.5"
+predicates = "3.1.4"
 
 [profile.release]
 lto = true
